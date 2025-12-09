@@ -1,0 +1,9 @@
+os
+numpy
+pandas
+kagglehub # Data loading
+torchvision # For image datasets and transforms
+torch # Optional: Sklearn fallback if missing
+scikit-learn # For fallback model/PCA/metrics
+matplotlib # For plotting
+streamlit # For interactive mode
