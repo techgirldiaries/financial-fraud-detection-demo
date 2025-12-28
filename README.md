@@ -250,17 +250,12 @@ streamlit run src/dashboard.py
 - **Model**: Simple logistic regression for demo.
 - **Vector Store**: In-memory for demo.
 
-## 🤝 Contributing
+## 🤝📧 Contributing or Contact
 
-This is a demo project for educational purposes. Feel free to fork and enhance!
-
-## 📧 Contact
-
-For questions or feedback about this demo, please open an issue on the repository.
+Please open an issue on the repo to contribute, ask questions or give feedback about the demo.
 
 ## 📜 License
 
 Licensed under the PolyForm Noncommercial License - Commercial use is prohibited
 
 Copyright (c) 2025 Oluwakemi Obadeyi
-
