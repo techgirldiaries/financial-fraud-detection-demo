@@ -1,6 +1,6 @@
 # 🛡️ Agentic AI Fraud Detection Demo
 
-A modular multi-agent system for real-time transaction fraud detection using similarity retrieval, machine learning (ML) classification and artificial intelligence (AI) reasoning.
+A modular agent system for real-time transaction fraud detection using similarity retrieval, machine learning (ML) classification and artificial intelligence (AI) reasoning.
 
 ## 🚀 Quick Start
 
@@ -259,3 +259,4 @@ Please open an issue on the repo to contribute, ask questions or give feedback a
 Licensed under the PolyForm Noncommercial License - Commercial use is prohibited
 
 Copyright (c) 2025 Oluwakemi Obadeyi
+
